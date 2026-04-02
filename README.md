@@ -1,119 +1,131 @@
 # Online Bakery Application – Business Analysis Case Study
 
-## Overview
-This project presents a Business Analysis solution for a small local bakery transitioning from manual operations to a digital ordering system.
+## Project Summary
 
-It focuses on improving order management, inventory tracking, and sales visibility through a structured, technology-driven approach.
+This project presents a Business Analysis case study for a small local bakery transitioning from manual operations to a digital ordering system.
 
----
+The goal is to analyze existing challenges, define structured requirements, and propose a scalable, technology-driven solution that improves efficiency, accuracy, and customer experience.
 
-## Problem Statement
-The bakery relies on manual processes (calls, walk-ins, and messaging) to manage orders and inventory, leading to:
+## The Business Problem
 
-- Frequent order errors and miscommunication  
-- Poor inventory tracking and stock shortages  
-- Lack of real-time sales visibility  
-- Time-consuming manual reporting  
+The bakery currently relies on manual processes (phone calls, walk-ins, and messaging apps) to manage orders and inventory.
 
-These challenges reduce operational efficiency and negatively impact customer experience.
+This results in:
 
----
+  •	Frequent order errors and miscommunication
+  •	Poor inventory tracking and stock shortages
+  •	No real-time visibility into sales performance
+  •	Time-consuming manual reporting
 
-## Proposed Solution
-A web-based bakery application designed to:
+These issues lead to reduced efficiency, lost revenue, and poor customer experience.
 
-- Enable seamless online ordering and secure payments  
-- Automate inventory tracking and updates  
-- Provide real-time sales insights  
-- Streamline end-to-end order processing  
+ ## Project Objectives
+ 
+This analysis aims to:
 
----
+  •	Reduce order processing errors by at least 70%
+  •	Enable customers to place and pay for orders online
+  •	Improve inventory accuracy and minimize stock-outs
+  •	Provide real-time visibility into sales and performance
 
-## Business Objectives
-- Reduce order processing errors by at least 70%  
-- Enable customers to place and pay for orders online  
-- Improve inventory accuracy and reduce stock-outs  
-- Provide real-time visibility into business performance  
+ ## Proposed Solution
+ 
+A web-based bakery management system designed to:
 
----
+  •	Support seamless online ordering and secure payments
+  •	Automate inventory tracking and updates
+  •	Provide real-time sales insights through dashboards
+  •	Streamline end-to-end order processing
 
-## Key Stakeholders
-- Bakery Owner (Admin)  
-- Customers  
-- Bakery Staff  
-- Payment Gateway Provider  
+##  Scope of the Project
 
----
+ In Scope
+  •	Online order placement and payment
+  •	Order tracking and management
+  •	Inventory automation with low-stock alerts
+  •	Sales reporting dashboard
+ 
+ Out of Scope
+  •	Delivery logistics integration
+  •	Mobile application development
+  •	Third-party accounting system integration
 
-## Scope
+## Stakeholders
 
-### In Scope
-- Online order placement and payment  
-- Order management and tracking  
-- Inventory automation and alerts  
-- Sales reporting dashboard  
-
-### Out of Scope
-- Delivery logistics integration  
-- Mobile application development  
-- Third-party accounting system integration  
-
----
+  •	Bakery Owner (Admin)
+  •	Customers
+  •	Bakery Staff
+  •	Payment Gateway Provider
 
 ## Process Improvement
+ 
+ Current State (As-Is)
+ 
+  •	Manual order handling
+  •	No structured inventory tracking
+  •	Manual sales calculations
+  •	High risk of errors
+  
+ Future State (To-Be)
+ 
+  •	Automated order processing
+  •	Integrated payment system
+  •	Real-time inventory updates
+  •	Automated sales reporting
+  
+ The transition from As-Is to To-Be significantly improves operational efficiency and decision-making.
 
-### As-Is (Current State)
-- Manual order handling  
-- No structured inventory tracking  
-- Manual sales calculations  
-- High risk of errors  
+ ## Key Deliverables
+ 
+This project includes:
 
-### To-Be (Future State)
-- Automated order processing  
-- Integrated payment system  
-- Real-time inventory updates  
-- Automated sales reporting  
-
----
-
-## Business Analysis Deliverables
-
-- Business Case  
-- Stakeholder Analysis  
-- Business Requirements Document (BRD)  
-- System Requirements Document (SRD)  
-- Use Case Documentation & UML Diagram  
-- Process Models (As-Is & To-Be)  
-- Business Rules  
-
----
+  •	Business Case
+  •	Stakeholder Analysis
+  •	Business Requirements Document (BRD)
+  •	System Requirements Document (SRD)
+  •	Use Case Documentation & UML Diagram
+  •	Process Models (As-Is & To-Be)
+  •	Business Rules
 
 ## Sample Business Rules
-- Orders must be paid before processing begins  
-- Inventory updates automatically after confirmed orders  
-- Low stock triggers alerts to the bakery owner  
-- Only valid orders proceed to checkout  
 
----
+  •	Orders must be paid before processing begins
+  •	Inventory updates automatically after confirmed orders
+  •	Low stock triggers alerts to the bakery owner
+  •	Only valid orders proceed to checkout
 
-## Tools & Techniques
-- Microsoft Word (Documentation)  
-- Microsoft Visio (Process Modeling)  
-- BPMN & Flowcharts  
-- UML (Use Case Diagrams)  
-- GitHub (Version Control & Hosting)  
+ ## Tools & Techniques
+ 
+  •	Microsoft Word (Documentation)
+  •	Microsoft Visio (Process Modeling)
+  •	BPMN & Flowcharts
+  •	UML (Use Case Diagrams)
+  •	GitHub (Version Control & Hosting)
 
----
+## Key Insights & Value Delivered
 
-## Key Outcomes
-This project demonstrates my ability to:
+Through this analysis:
+  •	Manual inefficiencies were identified as the primary cause of delays and errors
+  •	Automation opportunities were defined across ordering, inventory, and reporting
+  •	A structured system was designed to improve accuracy, speed, and visibility
 
-- Analyze business problems and define clear solutions  
-- Document structured business and system requirements  
-- Model and improve business processes  
-- Translate business needs into functional system features  
+## Business Impact (Projected)
 
----
+  •	Significant reduction in order errors
+  •	Improved inventory control and reduced stock shortages
+  •	Faster order processing time
+  •	Enhanced customer satisfaction
+  •	Better decision-making through real-time data
 
-## Project Access
-Explore detailed documentation and diagrams within this repository.
+ ## What This Project Demonstrates
+
+This project highlights my ability to:
+  •	Analyze business problems and identify root causes
+  •	Translate business needs into structured requirements
+  •	Model and improve business processes
+  •	Design practical, scalable business solutions
+
+ ## Project Repository
+
+Explore the full documentation, diagrams, and analysis in this repository.
+
