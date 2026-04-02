@@ -39,39 +39,55 @@ A web-based bakery management system designed to:
 
 ##  Scope of the Project
 
- In Scope
-  •	Online order placement and payment
-  •	Order tracking and management
-  •	Inventory automation with low-stock alerts
-  •	Sales reporting dashboard
+ ### In Scope
  
- Out of Scope
-  •	Delivery logistics integration
-  •	Mobile application development
-  •	Third-party accounting system integration
+ 	Online order placement and payment
+  
+ 	Order tracking and management
+  
+	Inventory automation with low-stock alerts
+ 
+	Sales reporting dashboard
+ 
+ ### Out of Scope
+ 
+  Delivery logistics integration
+ 
+  Mobile application development
+  
+  Third-party accounting system integration
 
 ## Stakeholders
 
-  •	Bakery Owner (Admin)
-  •	Customers
-  •	Bakery Staff
-  •	Payment Gateway Provider
+  Bakery Owner (Admin)
+  
+  Customers
+  
+  Bakery Staff
+  
+  Payment Gateway Provider
 
 ## Process Improvement
  
- Current State (As-Is)
+ ### Current State (As-Is)
  
-  •	Manual order handling
-  •	No structured inventory tracking
-  •	Manual sales calculations
-  •	High risk of errors
+  Manual order handling
   
- Future State (To-Be)
+  No structured inventory tracking
+  
+  Manual sales calculations
+  
+  High risk of errors
+  
+ ### Future State (To-Be)
  
-  •	Automated order processing
-  •	Integrated payment system
-  •	Real-time inventory updates
-  •	Automated sales reporting
+  Automated order processing
+  
+  Integrated payment system
+  
+  Real-time inventory updates
+  
+  Automated sales reporting
   
  The transition from As-Is to To-Be significantly improves operational efficiency and decision-making.
 
@@ -79,51 +95,75 @@ A web-based bakery management system designed to:
  
 This project includes:
 
-  •	Business Case
-  •	Stakeholder Analysis
-  •	Business Requirements Document (BRD)
-  •	System Requirements Document (SRD)
-  •	Use Case Documentation & UML Diagram
-  •	Process Models (As-Is & To-Be)
-  •	Business Rules
+ Business Case
+ 
+Stakeholder Analysis
+
+Business Requirements Document (BRD)
+
+System Requirements Document (SRD)
+
+Use Case Documentation & UML Diagram
+
+Process Models (As-Is & To-Be)
+
+Business Rules
 
 ## Sample Business Rules
 
-  •	Orders must be paid before processing begins
-  •	Inventory updates automatically after confirmed orders
-  •	Low stock triggers alerts to the bakery owner
-  •	Only valid orders proceed to checkout
+Orders must be paid before processing begins
+
+Inventory updates automatically after confirmed orders
+
+Low stock triggers alerts to the bakery owner
+
+Only valid orders proceed to checkout
 
  ## Tools & Techniques
  
-  •	Microsoft Word (Documentation)
-  •	Microsoft Visio (Process Modeling)
-  •	BPMN & Flowcharts
-  •	UML (Use Case Diagrams)
-  •	GitHub (Version Control & Hosting)
+Microsoft Word (Documentation)
+
+Microsoft Visio (Process Modeling)
+
+BPMN & Flowcharts
+
+UML (Use Case Diagrams)
+
+GitHub (Version Control & Hosting)
 
 ## Key Insights & Value Delivered
 
 Through this analysis:
-  •	Manual inefficiencies were identified as the primary cause of delays and errors
-  •	Automation opportunities were defined across ordering, inventory, and reporting
-  •	A structured system was designed to improve accuracy, speed, and visibility
+
+Manual inefficiencies were identified as the primary cause of delays and errors
+
+Automation opportunities were defined across ordering, inventory, and reporting
+
+A structured system was designed to improve accuracy, speed, and visibility
 
 ## Business Impact (Projected)
 
-  •	Significant reduction in order errors
-  •	Improved inventory control and reduced stock shortages
-  •	Faster order processing time
-  •	Enhanced customer satisfaction
-  •	Better decision-making through real-time data
+  Significant reduction in order errors
+  
+  Improved inventory control and reduced stock shortages
+  
+  Faster order processing time
+  
+  Enhanced customer satisfaction
+  
+  Better decision-making through real-time data
 
  ## What This Project Demonstrates
 
 This project highlights my ability to:
-  •	Analyze business problems and identify root causes
-  •	Translate business needs into structured requirements
-  •	Model and improve business processes
-  •	Design practical, scalable business solutions
+  
+  Analyze business problems and identify root causes
+  
+  Translate business needs into structured requirements
+  
+  Model and improve business processes
+  
+  Design practical, scalable business solutions
 
  ## Project Repository
 
