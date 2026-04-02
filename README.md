@@ -12,10 +12,13 @@ The bakery currently relies on manual processes (phone calls, walk-ins, and mess
 
 This results in:
 
-  •	Frequent order errors and miscommunication
-  •	Poor inventory tracking and stock shortages
-  •	No real-time visibility into sales performance
-  •	Time-consuming manual reporting
+  a) Frequent order errors and miscommunication
+  
+  b) Poor inventory tracking and stock shortages
+  
+  c) No real-time visibility into sales performance
+  
+  d) Time-consuming manual reporting
 
 These issues lead to reduced efficiency, lost revenue, and poor customer experience.
 
@@ -23,19 +26,25 @@ These issues lead to reduced efficiency, lost revenue, and poor customer experie
  
 This analysis aims to:
 
-  •	Reduce order processing errors by at least 70%
-  •	Enable customers to place and pay for orders online
-  •	Improve inventory accuracy and minimize stock-outs
-  •	Provide real-time visibility into sales and performance
+ a) Reduce order processing errors by at least 70%
+ 
+ b) Enable customers to place and pay for orders online
+
+ c) Improve inventory accuracy and minimize stock-outs
+ 
+ d) Provide real-time visibility into sales and performance
 
  ## Proposed Solution
  
 A web-based bakery management system designed to:
 
-  •	Support seamless online ordering and secure payments
-  •	Automate inventory tracking and updates
-  •	Provide real-time sales insights through dashboards
-  •	Streamline end-to-end order processing
+ a) Support seamless online ordering and secure payments
+ 
+ b) Automate inventory tracking and updates
+ 
+ c) Provide real-time sales insights through dashboards
+ 
+ d) Streamline end-to-end order processing
 
 ##  Scope of the Project
 
@@ -49,7 +58,7 @@ A web-based bakery management system designed to:
  
 	Sales reporting dashboard
  
- ### Out of Scope
+  ### Out of Scope
  
   Delivery logistics integration
  
@@ -57,15 +66,16 @@ A web-based bakery management system designed to:
   
   Third-party accounting system integration
 
+
 ## Stakeholders
 
-  Bakery Owner (Admin)
+  a) Bakery Owner (Admin)
   
-  Customers
+  b) Customers
   
-  Bakery Staff
+  c) Bakery Staff
   
-  Payment Gateway Provider
+  d) Payment Gateway Provider
 
 ## Process Improvement
  
@@ -89,7 +99,8 @@ A web-based bakery management system designed to:
   
   Automated sales reporting
   
- The transition from As-Is to To-Be significantly improves operational efficiency and decision-making.
+
+The transition from As-Is to To-Be significantly improves operational efficiency and decision-making.
 
  ## Key Deliverables
  
@@ -121,15 +132,15 @@ Only valid orders proceed to checkout
 
  ## Tools & Techniques
  
-Microsoft Word (Documentation)
+a) Microsoft Word (Documentation)
 
-Microsoft Visio (Process Modeling)
+b) Microsoft Visio (Process Modeling)
 
-BPMN & Flowcharts
+c) BPMN & Flowcharts
 
-UML (Use Case Diagrams)
+d) UML (Use Case Diagrams)
 
-GitHub (Version Control & Hosting)
+e) GitHub (Version Control & Hosting)
 
 ## Key Insights & Value Delivered
 
